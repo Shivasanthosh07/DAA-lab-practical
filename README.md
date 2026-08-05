@@ -11,3 +11,7 @@ Sorting is the process of arranging data in a specific order, usually ascending 
                     Imagine you arrange your books by their height-from the shortest to the tallest. That is sorting.
 
 CONCLUSION: LEARNING OF SORTING ALGORITHMS
+
+Practical 2 DAA-
+SUMMARY OF PRACTICAL 2:
+In practical 2 we learn about Linear and Binary search algorithms Linear search checks each item one by one until it finds the required item or reaches the end of the list. Binary Search: Binary Search finds an item by checking the middle element first and then searching only the left or right half.It works only on a sorted list.  
