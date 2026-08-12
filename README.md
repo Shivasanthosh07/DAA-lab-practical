@@ -15,4 +15,20 @@ CONCLUSION: LEARNING OF SORTING ALGORITHMS
 Practical 2 DAA-
 SUMMARY OF PRACTICAL 2:
 In practical 2 we learn about Linear and Binary search algorithms Linear search checks each item one by one until it finds the required item or reaches the end of the list. Binary Search: Binary Search finds an item by checking the middle element first and then searching only the left or right half.It works only on a sorted list.  
+
 CONCLUSION: Use Linear Search for small or unsorted lists, and Binary Search for large, sorted lists to get faster results.
+
+PRACTICAL 3 DAA-
+SUMMARY OF PRACTICAL 3:
+Heap Sort
+Heap Sort is a comparison-based sorting algorithm.
+It uses a binary heap data structure.
+A Max Heap can be used for ascending order sorting.
+A Min Heap can be used for descending order sorting.
+Heap Sort repeatedly removes the root element.
+Time Complexity is O(n log n).
+Space Complexity is O(1).
+It is an in-place sorting algorithm.
+
+CONCLUSION:Heap Sort efficiently sorts elements using Min Heap and Max Heap structures.
+It provides O(n log n) time complexity and requires O(1) extra space.
