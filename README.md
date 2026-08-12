@@ -15,3 +15,4 @@ CONCLUSION: LEARNING OF SORTING ALGORITHMS
 Practical 2 DAA-
 SUMMARY OF PRACTICAL 2:
 In practical 2 we learn about Linear and Binary search algorithms Linear search checks each item one by one until it finds the required item or reaches the end of the list. Binary Search: Binary Search finds an item by checking the middle element first and then searching only the left or right half.It works only on a sorted list.  
+CONCLUSION: Use Linear Search for small or unsorted lists, and Binary Search for large, sorted lists to get faster results.
