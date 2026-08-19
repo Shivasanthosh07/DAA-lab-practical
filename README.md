@@ -33,7 +33,7 @@ It is an in-place sorting algorithm.
 CONCLUSION:Heap Sort efficiently sorts elements using Min Heap and Max Heap structures.
 It provides O(n log n) time complexity and requires O(1) extra space.
 
-PRATICAL 4 DAA-
+PRACTICAL 4 DAA-
 SUMMARY OF PRACTICAL 4:
 Iteration uses loops to repeat instructions, while recursion solves a problem by repeatedly calling the same function on smaller subproblems.
 
