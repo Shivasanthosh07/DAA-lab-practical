@@ -43,3 +43,9 @@ PRACTICAL 7 DAA-
 SUMMARY OF PRACTICAL 7:The Making Change problem is solved using Dynamic Programming to find the minimum number of coins required to make a given amount. A DP array is used where each position stores the minimum coins needed to form that amount. By considering every available coin for each amount, the solution avoids repeated calculations and efficiently finds the optimal result. 
 
 CONCLUSION: The Dynamic Programming approach provides an efficient and optimal solution for the Making Change problem. It reduces the time complexity compared with a simple recursive approach and works effectively for larger amounts. This problem demonstrates how optimal substructure and overlapping subproblems can be used to solve real-world optimization problems.
+
+PRACTICAL 5 DAA-
+SUMMARY OF PRACTICAL 7:This project implements the 0/1 Knapsack Problem, where each item has a weight and value, and the goal is to maximize the total value while staying within a given weight capacity. The solution uses Dynamic Programming (DP) to efficiently solve the problem by breaking it into smaller subproblems.
+
+CONCLUSION:
+The Knapsack Problem demonstrates how Dynamic Programming can optimize decision-making problems with overlapping subproblems and optimal substructure. The implemented solution provides an efficient way to determine the maximum achievable value for a given capacity and set of items.
