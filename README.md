@@ -38,3 +38,8 @@ SUMMARY OF PRACTICAL 4:
 Iteration uses loops to repeat instructions, while recursion solves a problem by repeatedly calling the same function on smaller subproblems.
 
 CONCLUSION:Both approaches are useful. Iteration is usually more memory-efficient, while recursion can make certain problems simpler and easier to understand. The best choice depends on the problem.
+
+PRACTICAL 7 DAA-
+SUMMARY OF PRACTICAL 7:The Making Change problem is solved using Dynamic Programming to find the minimum number of coins required to make a given amount. A DP array is used where each position stores the minimum coins needed to form that amount. By considering every available coin for each amount, the solution avoids repeated calculations and efficiently finds the optimal result. 
+
+CONCLUSION: The Dynamic Programming approach provides an efficient and optimal solution for the Making Change problem. It reduces the time complexity compared with a simple recursive approach and works effectively for larger amounts. This problem demonstrates how optimal substructure and overlapping subproblems can be used to solve real-world optimization problems.
