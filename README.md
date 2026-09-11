@@ -47,5 +47,9 @@ CONCLUSION: The Dynamic Programming approach provides an efficient and optimal s
 PRACTICAL 5 DAA-
 SUMMARY OF PRACTICAL 7:This project implements the 0/1 Knapsack Problem, where each item has a weight and value, and the goal is to maximize the total value while staying within a given weight capacity. The solution uses Dynamic Programming (DP) to efficiently solve the problem by breaking it into smaller subproblems.
 
-CONCLUSION:
-The Knapsack Problem demonstrates how Dynamic Programming can optimize decision-making problems with overlapping subproblems and optimal substructure. The implemented solution provides an efficient way to determine the maximum achievable value for a given capacity and set of items.
+CONCLUSION:The Knapsack Problem demonstrates how Dynamic Programming can optimize decision-making problems with overlapping subproblems and optimal substructure. The implemented solution provides an efficient way to determine the maximum achievable value for a given capacity and set of items.
+
+PRACTICAL 6 DAA-
+SUMMARY OF PRACTICAL 6:Matrix Chain Multiplication is a classic Dynamic Programming problem used to determine the most efficient way to multiply a sequence of matrices. The algorithm does not change the order of the matrices; instead, it finds the optimal placement of parentheses to minimize the total number of scalar multiplications.
+
+CONCLUSION:This project demonstrates how Dynamic Programming can be used to solve an optimization problem efficiently by breaking it into smaller overlapping subproblems. Matrix Chain Multiplication helps understand important concepts such as optimal substructure, memoization/tabulation, and time complexity optimization.
