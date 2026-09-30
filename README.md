@@ -60,3 +60,8 @@ BFS visits nodes level by level and uses a queue.
 DFS visits nodes deeply one by one and uses a stack or recursion.
 
 CONCLUSION:BFS and DFS are useful graph traversal techniques. BFS is useful for level-wise searching, while DFS is useful for deep searching and backtracking.
+
+PRACTICAL 9 DAA-
+SUMMARY OF PRACTICAL 9:Prim's Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a weighted, connected graph by repeatedly selecting the minimum-weight edge.
+
+CONCLUSION:Prim's Algorithm efficiently connects all vertices with minimum total edge weight and is useful for network and graph optimization problems.
