@@ -53,3 +53,10 @@ PRACTICAL 6 DAA-
 SUMMARY OF PRACTICAL 6:Matrix Chain Multiplication is a classic Dynamic Programming problem used to determine the most efficient way to multiply a sequence of matrices. The algorithm does not change the order of the matrices; instead, it finds the optimal placement of parentheses to minimize the total number of scalar multiplications.
 
 CONCLUSION:This project demonstrates how Dynamic Programming can be used to solve an optimization problem efficiently by breaking it into smaller overlapping subproblems. Matrix Chain Multiplication helps understand important concepts such as optimal substructure, memoization/tabulation, and time complexity optimization.
+
+PRACTICAL 8 DAA-
+SUMMARY OF PRACTICAL 8:BFS and DFS are methods used to visit all the nodes of a graph.
+BFS visits nodes level by level and uses a queue.
+DFS visits nodes deeply one by one and uses a stack or recursion.
+
+CONCLUSION:BFS and DFS are useful graph traversal techniques. BFS is useful for level-wise searching, while DFS is useful for deep searching and backtracking.
